@@ -4,6 +4,6 @@ deploy: powerful-tor-24885
   provider: heroku
   api_key:
     secure: DBwNs31XKr/I6aV2JMb9XTo/3a99vHQ0ggNG5DR7igCD86uOHevl2TGT3ivL+V2XxfdBzk4whInQ2dUhQ0wRYI480ZNhRLy6IXZFULYVCq5CkKxPf1e4UR/7mf1HnSUkn2H+q/DhI5PzBJpicD5sC0iLwALBQU0YvwlSPi4pQGjt7/HZ4h+P/09OujovF/wnZG66ccr51duw5xfB1+13SX5ksVmLb9I6a69o8OIixNLbeejBO7D2fOh2KhdfGWlvOY4Lo/zjD6IVFIL86xQcrruaHiH9p7ConV6q6O90CVsTMYr5jr1dGiw4mtZq0T+zHLiP5uj8NORJamPYzA1gU4l0n3+dDhzu/3IA8qDrA8JxgNykL/0XP1SLKwcCBh2Y8UVHpFSHCFiYEW/aZCwTqW84hQlHXDoLUZLsIQPhLA9z87nSNjTniFWHIO4KDH5IqRvhfd/mvF4TLDJw6zpD3TjXIlutOmoGg7jJqxRkvkdzVqTOjVU5XCjmAnZs8BdjoRguFA09dOri7AemjTMPq9oL9DQVqm0puI6vtFrZM5UhxRs2AiC2z9o1hZrxCUBzPfmS6dtfbDAGEuZJFHouYVJcbuTB76gskSVcANo50IKJrJanCOT9p8I5hQQ2JyZNMiglKy0XWx8aRKy3bxCdkKK/SzlZ0CWHpMnXsBdCZf0=
-  app: node-shopping-list-integration-tests
+  app: powerful-tor-24885
   on:
     repo: rjsabia/node-shopping-list-integration-tests
